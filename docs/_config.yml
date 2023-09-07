@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Layup - layer-adaptive memory optimizations for CNNs
+title: Layer-adaptive memory optimizations for CNNs
 description: >- # this means to ignore newlines until "baseurl:"
   An implementation of a layer-adaptive offloading strategy to decrease memory pressure on GPUs. A group project done as part of High-Performance Parallel Programming (IIT KGP)
 baseurl: "/" # the subpath of your site, e.g. /blog
